@@ -1,0 +1,10 @@
+[submodule "Hermit/themes/hermit"]
+	path = Hermit/themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "Hermit/public"]
+	path = Hermit/public
+	url = git@github.com:Nut-Guo/Nut-Guo.github.io.git
+	branch = master
+[submodule "Paper/themes/themes/hermit"]
+	path = Paper/themes/themes/hermit
+	url = https://github.com/Track3/hermit.git
